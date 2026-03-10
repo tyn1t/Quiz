@@ -2,7 +2,7 @@
 
 const nextConfig: import('next').NextConfig = {
   basePath: '/Quiz',
-  assetPrefix: '/ Quiz/',
+  assetPrefix: '/Quiz/',
   output: 'export',
   images: {
     domains: ["tyn1t.github.io"],
